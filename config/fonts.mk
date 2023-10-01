@@ -23,7 +23,15 @@ PRODUCT_COPY_FILES += \
     vendor/arrow/fonts/GoogleSans-Italic.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/GoogleSans-Italic.ttf \
     vendor/arrow/fonts/GoogleSans-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/GoogleSans-Regular.ttf \
     vendor/arrow/fonts/Inter-VF.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Inter-VF.ttf \
-    vendor/arrow/fonts/OppoSans-En-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/OppoSans-En-Regular.ttf
+    vendor/arrow/fonts/OppoSans-En-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/OppoSans-En-Regular.ttf \
+    vendor/arrow/fonts/Exo2-Italic.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Exo2-Italic.ttf \
+    vendor/arrow/fonts/Exo2-Medium.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Exo2-Medium.ttf \
+    vendor/arrow/fonts/Exo2-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Exo2-Regular.ttf \
+    vendor/arrow/fonts/RobotoSlab-Medium.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/RobotoSlab-Medium.ttf \
+    vendor/arrow/fonts/RobotoSlab-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/RobotoSlab-Regular.ttf \
+    vendor/arrow/fonts/Rookery-Italic.otf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Rookery-Italic.otf \
+    vendor/arrow/fonts/Rookery-Medium.otf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Rookery-Italic.otf \
+    vendor/arrow/fonts/Rookery-Regular.otf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Rookery-Italic.otf \
 
 PRODUCT_PACKAGES += \
     FontArbutusSourceOverlay \
@@ -32,4 +40,7 @@ PRODUCT_PACKAGES += \
     FontGoogleSansLatoOverlay \
     FontInterOverlay \
     FontOppoSansOverlay \
-    FontRubikRubikOverlay
+    FontRubikRubikOverlay \
+    FontExo2RegularSourceOverlay \
+    FontRobotoSlabRegularOverlay \
+    FontRookeryRegularOverlay

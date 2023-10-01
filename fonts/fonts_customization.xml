@@ -361,4 +361,35 @@
     </font>
   </family>
   <alias name="opposans-medium" to="opposans" weight="500" />
+
+  <family name="Exo2-Regular" customizationType="new-named-family">
+      <font weight="400" style="normal" postScriptName="Exo2-Regular">
+          Exo2-Regular.ttf
+      </font>
+      <font weight="500" style="normal" postScriptName="Exo2-Medium">
+          Exo2-Medium.ttf
+      </font>
+      <font weight="400" style="italic" postScriptName="Exo2-Italic">
+          Exo2-Italic.ttf
+      </font>
+  </family>
+  <family name="RobotoSlab-Regular" customizationType="new-named-family">
+      <font weight="400" style="normal" postScriptName="RobotoSlab-Regular">
+          RobotoSlab-Regular.ttf
+      </font>
+      <font weight="500" style="normal" postScriptName="RobotoSlab-Medium">
+          RobotoSlab-Medium.ttf
+      </font>
+  </family>
+  <family name="Rookery-Regular" customizationType="new-named-family">
+      <font weight="400" style="normal" postScriptName="Rookery-Regular">
+          Rookery-Regular.otf
+      </font>
+      <font weight="500" style="normal" postScriptName="Rookery-Medium">
+          Rookery-Medium.otf
+      </font>
+      <font weight="400" style="italic" postScriptName="Rookery-Italic">
+          Rookery-Italic.otf
+      </font>
+  </family>
 </fonts-modification>
