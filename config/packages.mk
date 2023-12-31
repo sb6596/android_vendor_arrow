@@ -44,10 +44,6 @@ endif
 PRODUCT_PACKAGES += \
     BtHelper
 
-# Config
-PRODUCT_PACKAGES += \
-    SimpleDeviceConfig
-
 # Navbar
 PRODUCT_PACKAGES += \
     NavigationBarNoHintOverlay
